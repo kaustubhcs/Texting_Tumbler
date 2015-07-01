@@ -3,3 +3,9 @@ The texting tumbler is a consumer product that is simply a glassware used for co
 
 
 This repository constitutes two files. One includes the code for the transmitter and other includes the code for the receiver.
+
+
+
+Authors
+Kaustubh Shivdikar
+Ahan Kak
